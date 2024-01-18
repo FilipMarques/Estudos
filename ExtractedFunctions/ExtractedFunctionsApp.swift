@@ -11,7 +11,7 @@ import SwiftUI
 struct ExtractedFunctionsApp: App {
     var body: some Scene {
         WindowGroup {
-            OpenPdf()
+            ViewModelBootcamp()
         }
     }
 }

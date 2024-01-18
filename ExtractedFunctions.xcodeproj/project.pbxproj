@@ -33,6 +33,11 @@
 		7FFFFFCA2B56F5CB00D1FDB8 /* TabviewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFFFFC92B56F5CB00D1FDB8 /* TabviewBootcamp.swift */; };
 		7FFFFFCC2B57083B00D1FDB8 /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFFFFCB2B57083B00D1FDB8 /* DarkModeBootcamp.swift */; };
 		7FFFFFCE2B570E4100D1FDB8 /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFFFFCD2B570E4100D1FDB8 /* DocumentationBootcamp.swift */; };
+		7FFFFFD02B581F1300D1FDB8 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFFFFCF2B581F1300D1FDB8 /* OnAppearBootcamp.swift */; };
+		7FFFFFD22B58404900D1FDB8 /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFFFFD12B58404900D1FDB8 /* IfLetGuardBootcamp.swift */; };
+		7FFFFFD42B58462000D1FDB8 /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFFFFD32B58462000D1FDB8 /* TapGestureBootcamp.swift */; };
+		7FFFFFD62B584A7A00D1FDB8 /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFFFFD52B584A7A00D1FDB8 /* ModelBootcamp.swift */; };
+		7FFFFFD82B585FFE00D1FDB8 /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFFFFD72B585FFE00D1FDB8 /* ViewModelBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +68,11 @@
 		7FFFFFC92B56F5CB00D1FDB8 /* TabviewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabviewBootcamp.swift; sourceTree = "<group>"; };
 		7FFFFFCB2B57083B00D1FDB8 /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
 		7FFFFFCD2B570E4100D1FDB8 /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
+		7FFFFFCF2B581F1300D1FDB8 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
+		7FFFFFD12B58404900D1FDB8 /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
+		7FFFFFD32B58462000D1FDB8 /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
+		7FFFFFD52B584A7A00D1FDB8 /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
+		7FFFFFD72B585FFE00D1FDB8 /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +129,11 @@
 				7FFFFFC92B56F5CB00D1FDB8 /* TabviewBootcamp.swift */,
 				7FFFFFCB2B57083B00D1FDB8 /* DarkModeBootcamp.swift */,
 				7FFFFFCD2B570E4100D1FDB8 /* DocumentationBootcamp.swift */,
+				7FFFFFCF2B581F1300D1FDB8 /* OnAppearBootcamp.swift */,
+				7FFFFFD12B58404900D1FDB8 /* IfLetGuardBootcamp.swift */,
+				7FFFFFD32B58462000D1FDB8 /* TapGestureBootcamp.swift */,
+				7FFFFFD52B584A7A00D1FDB8 /* ModelBootcamp.swift */,
+				7FFFFFD72B585FFE00D1FDB8 /* ViewModelBootcamp.swift */,
 				7FDBAC102B1BBEFA004F5B7C /* Assets.xcassets */,
 				7FDBAC122B1BBEFA004F5B7C /* Preview Content */,
 			);
@@ -203,14 +218,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7FFFFFD62B584A7A00D1FDB8 /* ModelBootcamp.swift in Sources */,
 				7FDBAC2E2B1FA222004F5B7C /* PopoverBootcamp.swift in Sources */,
 				7FF2D9FD2B21F98000DF31D6 /* TextFieldBootcamp.swift in Sources */,
 				7FE514682B25F7B900A31BC1 /* OpenPdf.swift in Sources */,
 				7FDBAC2A2B1F59A1004F5B7C /* TransitionBootcamp.swift in Sources */,
 				7FDBAC212B1E4CB9004F5B7C /* TernaryBootcamp.swift in Sources */,
 				7FFFFFCE2B570E4100D1FDB8 /* DocumentationBootcamp.swift in Sources */,
+				7FFFFFD82B585FFE00D1FDB8 /* ViewModelBootcamp.swift in Sources */,
 				7FFFFFCA2B56F5CB00D1FDB8 /* TabviewBootcamp.swift in Sources */,
 				7FF2D9FB2B21EF7900DF31D6 /* ContextMenuBootcamp.swift in Sources */,
+				7FFFFFD42B58462000D1FDB8 /* TapGestureBootcamp.swift in Sources */,
 				7FFFFFC82B56BD2B00D1FDB8 /* SliderBootcamp.swift in Sources */,
 				7FFFFFCC2B57083B00D1FDB8 /* DarkModeBootcamp.swift in Sources */,
 				7FDF060D2B3BDB99001FE5EF /* ToggleBootcamp.swift in Sources */,
@@ -221,6 +239,8 @@
 				7FDBAC1F2B1BCEB7004F5B7C /* Conditional.swift in Sources */,
 				7FF2D9F92B210DCF00DF31D6 /* ActionsheetBootcamp.swift in Sources */,
 				7FDBAC262B1E73C7004F5B7C /* AnimationBootcamp.swift in Sources */,
+				7FFFFFD02B581F1300D1FDB8 /* OnAppearBootcamp.swift in Sources */,
+				7FFFFFD22B58404900D1FDB8 /* IfLetGuardBootcamp.swift in Sources */,
 				7FDBAC342B200042004F5B7C /* ListBootcamp.swift in Sources */,
 				7FDBAC282B1E8842004F5B7C /* AnimationTimingBootcamp.swift in Sources */,
 				7FDBAC0D2B1BBEF5004F5B7C /* ExtractedFunctionsApp.swift in Sources */,
